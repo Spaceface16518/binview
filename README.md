@@ -1,4 +1,7 @@
 # binview
+
+[![Build Status](https://travis-ci.com/Spaceface16518/binview.svg?branch=master)](https://travis-ci.com/Spaceface16518/binview)
+
 **Ones and zeros**
 
 **binview** is a simple command line utility and library for viewing the binary string representation of a binary file.
